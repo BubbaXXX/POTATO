@@ -6,4 +6,4 @@ Software development class
 ### some more information
 
 
-#Develped By ME!
+#Developed By ME!
